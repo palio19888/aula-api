@@ -1,0 +1,37 @@
+[{
+
+
+    "montadora": "fiate",
+    "concecionaria": {
+
+        "nome": "italiana",
+        "estoque": 63.000,
+        "capacidade": null
+
+    },
+
+    "carros": [{
+     "nome": "palio",
+     "cor": "prata",
+     "motorização": "1.0",
+     "condição": ["semi-novo"]
+     
+    },
+
+{
+
+    "carros": [{
+        "nome": "argo",
+        "cor": "preto",
+        "motorização": "1.4",
+        "condição": ["zero"]
+    },
+
+{
+
+    "carros": [{
+     "nome": "toro",
+     "cor": "vinho",
+     "motorização": "2.0",
+     "condição": ["semi-novo"]
+           
