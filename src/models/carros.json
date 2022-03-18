@@ -1,15 +1,80 @@
-[{
-
+[
+  {
     "id": 1,
-    "nomeDOLanche" : "hamburguer",
-    "favorito" : true
-},
-{
+    "nome": "palio",
+    "cor": "preto",
+    "motorização": "1.0",
+    "condição": "semi-novo"
+  },
 
-    "id": 1,
-    "nomeDOLanche" : "conxinha",
-    "favorito" : true
+  {
+    "id": 2,
+    "nome": "palio",
+    "cor": "preto",
+    "motorização": "1.0",
+    "condição": "semi-novo"
+  },
 
-}
+  {
+    "id": 3,
+    "nome": "argo",
+    "cor": "preto",
+    "motorização": "1.4",
+    "condição": "zero"
+  },
 
+  {
+    "id": 4,
+    "nome": "toro",
+    "cor": "vinho",
+    "motorização": "2.0",
+    "condição": "semi-novo"
+  },
+  {
+    "id": 5,
+    "nome": "punto",
+    "cor": "preto",
+    "motorização": "1.0",
+    "condição": "semi-novo"
+  },
+
+  {
+    "id": 6,
+    "nome": "bravo",
+    "cor": "preto",
+    "motorização": "1.0",
+    "condição": "semi-novo"
+  },
+
+  {
+    "id": 7,
+    "nome": "estrada",
+    "cor": "preto",
+    "motorização": "1.4",
+    "condição": "zero"
+  },
+
+  {
+    "id": 8,
+    "nome": "uno",
+    "cor": "vinho",
+    "motorização": "2.0",
+    "condição": "semi-novo"
+  },
+
+  {
+    "id": 9,
+    "nome": "pulse",
+    "cor": "preto",
+    "motorização": "1.4",
+    "condição": "zero"
+  },
+
+  {
+    "id": 10,
+    "nome": "fiate adventure",
+    "cor": "vinho",
+    "motorização": "2.8",
+    "condição": "semi-novo"
+  }
 ]
